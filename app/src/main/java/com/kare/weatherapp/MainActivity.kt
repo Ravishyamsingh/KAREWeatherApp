@@ -1,3 +1,7 @@
+
+
+
+
 package com.kare.weatherapp
 
 import android.os.Bundle
